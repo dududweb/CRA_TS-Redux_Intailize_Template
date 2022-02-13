@@ -1,15 +1,3 @@
-# Project Initialize Template
-
-- TypeScript
-- Redux
-- Craco
-- Eslint
-- Prettier
-- yarn
-
-### Eslint.js
-
-```
 module.exports = {
 	env: {
 		browser: true,
@@ -50,6 +38,3 @@ module.exports = {
 		'react/react-in-jsx-scope': 'off',
 	},
 };
-
-
-```
