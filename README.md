@@ -1,7 +1,7 @@
 # Project Initialize Template
 
 - TypeScript
-- Redux
+- Redux (Ducks Pattern)
 - Router
 - Craco
 - Eslint
